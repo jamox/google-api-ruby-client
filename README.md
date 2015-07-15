@@ -218,7 +218,7 @@ available in [LICENSE.txt](LICENSE.txt).
 
 ## Contributing
 
-See [CONTRIBUTING](contributing).
+See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Support
 
